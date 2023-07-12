@@ -1,0 +1,28 @@
+/* .box{
+
+border: 2px solid crimson;
+width: 100%;
+} */
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+/* .parent{
+    width: 50%;
+    border: solid black 1px;
+    background-color: beige;
+}
+
+.child{
+width: 50%;
+border: solid black 1px;
+background-color: aqua;
+
+} */
+/* .container{
+    border: solid black 1px;
+    width: 50vw;
+    height: 50vh;
+    
+} */
