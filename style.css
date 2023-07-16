@@ -51,4 +51,10 @@ display: inline;
 }
 h5{
     border: dotted crimson 3px;
+    display: inline;
 }
+#box{
+    height: 25vh;
+    width: 25vw;
+    background-image: linear-gradient(to left bottom, crimson , aquamarine, yellow, purple);
+  }
