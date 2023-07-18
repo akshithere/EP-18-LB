@@ -57,4 +57,5 @@ h5{
     height: 25vh;
     width: 25vw;
     background-image: linear-gradient(to left bottom, crimson , aquamarine, yellow, purple);
+    display: inline;
   }
