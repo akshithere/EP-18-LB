@@ -59,3 +59,10 @@ h5{
     background-image: linear-gradient(to left bottom, crimson , aquamarine, yellow, purple);
     display: inline;
   }
+  /* Studying about pixels */
+  .pixelstudy{
+
+border: 2px solid crimson;
+
+
+  }
